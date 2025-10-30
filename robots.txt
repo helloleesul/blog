@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://blog.leesul.com/blog/sitemap-index.xml
+Sitemap: https://blog.leesul.com/sitemap-index.xml
 Host: https://blog.leesul.com
