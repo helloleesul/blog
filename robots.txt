@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://helloleesul.github.io/blog/sitemap-index.xml
-Host: https://helloleesul.github.io
+Sitemap: https://blog.leesul.com/blog/sitemap-index.xml
+Host: https://blog.leesul.com
