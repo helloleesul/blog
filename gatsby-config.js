@@ -13,7 +13,7 @@ module.exports = {
     title: `leesulog`,
     description: `개발 공부를 하며 배우고 느낀 것들을 기록합니다.`,
     author: `leesul`,
-    siteUrl: 'https://helloleesul.github.io/blog/',
+    siteUrl: 'https://blog.leesul.com',
   },
   plugins: [
     {
@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://helloleesul.github.io/blog/',
+        siteUrl: 'https://blog.leesul.com',
         stripQueryString: true,
       },
     },
